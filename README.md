@@ -1,4 +1,4 @@
-# lp_numpy
+# Deep Learning Prerequisites: The NumPy Stack in Python.
 Following "Deep Learning Prerequisites: The Numpy Stack in Python" by the Lazy Programmer.
 I intend to follow and get practice using these common tools.
 
